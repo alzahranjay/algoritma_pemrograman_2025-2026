@@ -1,10 +1,13 @@
-public class Main{
-    public static void main(String[]args) {
-        String nama ="Alzahra Cahya";
-        int umur = 18;
-        double tinggi = 159;
+public class Main {
+    public static void main(String[] args) {
+        String nama = "Bayu";
+        int umur = 19;
+        double tinggi = 170.5;
         boolean aktif = true;
 
-        system.out.ptint1
+        System.out.println("Nama: " + nama);
+        System.out.println("Umur: " + umur);
+        System.out.println("Tinggi: " + tinggi);
+        System.out.println("Status aktif: " + aktif);
     }
 }
